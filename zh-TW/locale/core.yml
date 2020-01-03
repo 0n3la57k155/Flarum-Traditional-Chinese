@@ -1,27 +1,27 @@
 core:
-  account: 賬戶
-  activity: 在線
+  account: 帳戶
+  activity: 線上
   administration: 管理面板
   alert: 通知
   all_discussions: 所有話題
   before_log_in_link: 已經註冊過了嗎？
-  before_sign_up_link: 還沒有註冊賬戶？
+  before_sign_up_link: 還沒有註冊帳戶？
   bio_placeholder: 寫點什麼介紹下自己吧
   cannot_reply: 禁止回覆
   cannot_reply_help: 你沒有權限參與此話題
-  change_email: 更換郵箱
-  change_password: 更改密碼
-  change_password_help: 點擊下面的按鈕，並通過您的電子郵件中的鏈接來更改您的密碼。
+  change_email: 變更電子郵件
+  change_password: 變更密碼
+  change_password_help: 按一下下方的按鈕，並使用電子郵件寄送變更密碼的連結給你。
   confirm_delete_discussion: 確定刪除此話題嗎？
   confirm_discard_discussion: 你還沒發佈此話題，確定要丟棄它？
-  confirm_discard_edit: 你還沒保存更改，確定放棄？
-  confirm_discard_reply: 你還沒有發表該回復，確定要丟棄它？
-  confirmation_email_sent: "我們已經發送一封確認郵件至 {email} ，如果長時間未能收到它，請檢查郵箱的垃圾郵件文件夾。"
+  confirm_discard_edit: 你還沒儲存變更，確定放棄？
+  confirm_discard_reply: 你還沒有發表該回覆，確定要丟棄它？
+  confirmation_email_sent: "我們已經發送一封確認郵件至 {email} ，如果長時間未能收到它，請檢查信箱中的垃圾郵件文件夾。"
   controls: 操作
   delete: 刪除
   delete_forever: 永久刪除
-  deleted: "[已銷戶]"
-  disclose_online: 允許其他人查看我的在線狀態
+  deleted: "[已刪除帳戶]"
+  disclose_online: 允許其他人查看我的線上狀態
   discussion_renamed_post: "{username} 將標題 {old} 修改成 {new}."
   discussion_renamed_notification: "{username} 修改了標題"
   discussion_replied: "最近由 {username} 回覆於 {ago}"
@@ -32,22 +32,22 @@ core:
   edit: 編輯
   editing_post: "發佈 #{number} 在 {discussion}"
   email: 郵箱
-  email_confirmation_required: "需要您確認您的電子郵件，然後才能登錄。我們已經發送一封確認郵件至 {email} 。如果長時間沒有收到，請檢查您的垃圾郵件文件夾。"
-  exit_full_screen: 退出全屏
+  email_confirmation_required: "你必須確認你的電子郵件，然後才能登入。我們已經發送一封確認信件至 {email} 。如果長時間沒有收到，請檢查信箱中的垃圾郵件文件夾。"
+  exit_full_screen: 離開全螢幕
   forgot_password: 忘記密碼
-  forgot_password_help: 輸入您的電子郵箱地址，我們會向它發送一個鏈接用來重設密碼。
+  forgot_password_help: 請輸入您的電子郵件地址，我們將會傳送一個連結協助你重設密碼。
   forgot_password_link: 忘記密碼？
-  full_screen: 全屏
+  full_screen: 全螢幕
   go_to: "轉到 {location}"
   group_admin: 管理員
   group_admins: 管理員
-  group_guest: 遊客
-  group_guests: 遊客
+  group_guest: 訪客
+  group_guests: 訪客
   group_member: 會員
   group_members: 會員
   group_mod: 操作員
   group_mods: 操作員
-  invalid_login: 您輸入的賬戶信息不正確！
+  invalid_login: 您輸入的帳戶資訊不正確！
   joined: "加入於 {ago}"
   joined_the_forum: 加入我們
   load_more: 載入更多
@@ -58,13 +58,13 @@ core:
   mark_as_read: 標記為已讀
   minimize: 最小化
   no_notifications: 沒有通知
-  notifications: 消息提醒
+  notifications: 通知提醒
   notify_discussion_renamed: 我的話題被修改
   now: 最後更新
-  online: 在線
+  online: 線上
   original_post: 最先發布
   password: 密碼
-  password_reset_email_sent: 我們已經向您發送了一封包含了重置密碼鏈接的電子郵件。如果長時間未能收到它，請檢查郵箱的垃圾郵件文件夾。
+  password_reset_email_sent: 我們已經向您傳送了一封電子郵件，裏頭會引導你重設密碼。如果長時間未能收到它，請檢查信箱中的垃圾郵件文件夾。
   period_later: "{period} 後"
   post_discussion: 發佈話題
   post_edited: "{username} 編輯於 {ago}"
@@ -74,33 +74,33 @@ core:
   posts: 回覆
   powered_by_flarum: 由 Flarum 構建
   privacy: 隱私相關
-  profile: 我的資料
+  profile: 個人資料
   prompt_rename_discussion: 為此話題輸入新的標題：
-  recover_password: 重置密碼
-  refresh: 刷新
+  recover_password: 重設密碼
+  refresh: 重新整理
   remove: 移除
   rename: 修改標題
   reply: 回覆
   reply_posted: 你的回覆已發表
   restore: 恢復
-  save_changes: 保存更改
-  search_all_discussions: '所有話題中搜索 "{query}"'
-  search_forum: 搜索其實很簡單
-  send_password_reset_email: 發送重置密碼郵件
-  settings: 個人設置
+  save_changes: 儲存變更
+  search_all_discussions: '所有話題中搜尋 "{query}"'
+  search_forum: 搜尋其實很簡單
+  send_password_reset_email: 傳送重設密碼信件
+  settings: 個人設定
   sign_up: 註冊
   sort_latest: 最新回覆
   sort_newest: 最新話題
   sort_oldest: 最舊話題
   sort_relevance: Relevance
   sort_top: 熱門話題
-  start_a_discussion: 創建話題
+  start_a_discussion: 建立話題
   started_a_discussion: 發佈了一個話題
   unread_posts: "{count} 未讀"
   upload: 上傳
-  username: 用戶名
-  username_or_email: 用戶名 或 郵箱
-  users: 用戶
+  username: 使用者名稱
+  username_or_email: 使用者名稱 或 電子郵件地址
+  users: 使用者
   view: 查看
   viewing_posts:
     one: "{index} / {count} 條"

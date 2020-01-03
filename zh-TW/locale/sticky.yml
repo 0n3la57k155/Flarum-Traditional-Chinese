@@ -3,6 +3,6 @@ sticky:
   discussion_stickied_post: "{username} 置頂了此話題"
   discussion_unstickied_post: "{username} 取消置頂此話題"
   notify_discussion_stickied: 我的話題被置頂
-  stickied: 置頂
+  stickied: 已置頂
   sticky: 置頂
   unsticky: 取消置頂
